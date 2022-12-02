@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Release"/>
+    <Units>
+      <Unit>
+        <Filename Value="markdown_toc.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos Y="5"/>
+        <UsageCount Value="22"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="14">
+      <Position>
+        <Filename Value="markdown_toc.lpr"/>
+        <Caret Line="14"/>
+      </Position>
+      <Position>
+        <Filename Value="markdown_toc.lpr"/>
+        <Caret Line="42" Column="25" TopLine="8"/>
+      </Position>
+      <Position>
+        <Filename Value="markdown_toc.lpr"/>
+        <Caret Line="13" Column="10"/>
+      </Position>
+      <Position>
+        <Filename Value="markdown_toc.lpr"/>
+        <Caret Line="47" Column="9" TopLine="11"/>
+      </Position>
+      <Position>
+        <Filename Value="markdown_toc.lpr"/>
+        <Caret Line="44" Column="26" TopLine="12"/>
+      </Position>
+      <Position>
+        <Filename Value="markdown_toc.lpr"/>
+        <Caret Line="41" Column="16" TopLine="19"/>
+      </Position>
+      <Position>
+        <Filename Value="markdown_toc.lpr"/>
+        <Caret Line="24" Column="17" TopLine="18"/>
+      </Position>
+      <Position>
+        <Filename Value="markdown_toc.lpr"/>
+        <Caret Line="37" Column="29" TopLine="17"/>
+      </Position>
+      <Position>
+        <Filename Value="markdown_toc.lpr"/>
+        <Caret Line="36" Column="36" TopLine="21"/>
+      </Position>
+      <Position>
+        <Filename Value="markdown_toc.lpr"/>
+        <Caret Line="77" TopLine="44"/>
+      </Position>
+      <Position>
+        <Filename Value="markdown_toc.lpr"/>
+        <Caret Line="108" Column="42" TopLine="90"/>
+      </Position>
+      <Position>
+        <Filename Value="markdown_toc.lpr"/>
+        <Caret Line="35" Column="20" TopLine="10"/>
+      </Position>
+      <Position>
+        <Filename Value="markdown_toc.lpr"/>
+        <Caret Line="42" Column="34" TopLine="23"/>
+      </Position>
+      <Position>
+        <Filename Value="markdown_toc.lpr"/>
+        <Caret Line="98" Column="65" TopLine="79"/>
+      </Position>
+      <Position>
+        <Filename Value="markdown_toc.lpr"/>
+        <Caret Line="123" Column="19" TopLine="100"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+    <HistoryLists>
+      <List Name="LaunchingApplication" Type="File" Count="1">
+        <Item1 Value="C:\Windows\System32\cmd.exe /C ${TargetCmdLine}"/>
+      </List>
+    </HistoryLists>
+  </ProjectSession>
+</CONFIG>
