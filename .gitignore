@@ -1,0 +1,6 @@
+
+lib/*
+backup/*
+*.lps
+*.exe
+markdown_toc
